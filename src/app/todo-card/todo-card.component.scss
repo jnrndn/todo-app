@@ -1,0 +1,8 @@
+@import './../../styles.scss';
+
+:host {
+    max-width: 200px;
+    margin: auto;
+    min-height: 250px;
+    font-family: $body-font;
+}

@@ -1,0 +1,9 @@
+@import './../../styles.scss';
+
+.header {
+    font-family: $titles-font;
+    box-shadow: 1px 8px 10px #d6cfcf;
+    border-radius: 6px;
+    padding: 7px;
+    margin-top: 0;
+}

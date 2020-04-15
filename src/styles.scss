@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro&display=swap');
+
+$body-font: 'Source Sans Pro';
+$titles-font: 'Open Sans';
+
+.fixed-content {
+    position: fixed;
+    width: 100%;
+}
+
+.white-background {
+    background: white;
+}
